@@ -1,5 +1,0 @@
-hi 
-anite
-This is new local work space
-line 
-another line
